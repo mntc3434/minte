@@ -1,0 +1,27 @@
+html
+{
+    font-size: 22px
+}
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-image:url("./img/photo_2023-11-06_05-17-50.jpg");
+    
+    color: whitesmoke;
+}
+a {
+    color: lightblue;
+}
+a:visited {
+    color: lightgray;
+}
+a:hover, a:active {
+    color: #eee;
+}
+header{
+    background-image:url("./img/photo_2023-11-06_05-18-19.jpg");
+    background-color: cadetblue;
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+}
